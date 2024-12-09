@@ -5,5 +5,6 @@ void main() {
 
   if (a + b != 2) {
     print("true");
-  }
+  } else
+    print("false");
 }
