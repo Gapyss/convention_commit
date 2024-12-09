@@ -3,7 +3,7 @@ void main() {
   int a = 1;
   int b = 1;
 
-  if (a + b != 2) {
+  if (a + b == 2) {
     print("true");
   } else
     print("false");
